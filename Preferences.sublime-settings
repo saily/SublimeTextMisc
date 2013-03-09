@@ -8,8 +8,8 @@
 		"CVS",
 		".*"
 	],
-	"font_face": "Source Code Pro",
-	"font_size": 12.0,
+	//"font_face": "Source Code Pro",
+	//"font_size": 12.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -28,7 +28,7 @@
 	"soda_classic_tabs": true,
 	"soda_retina_fix": true,
 	"tab_size": 4,
-	"theme": "Soda Light.sublime-theme",
+	//"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }
